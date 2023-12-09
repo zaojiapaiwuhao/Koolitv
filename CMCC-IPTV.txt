@@ -1,9 +1,11 @@
-#EXTINF:-1,cctv1-HD
-CCTV1-4K,http://ott.mobaibox.com/PLTV/1/224/3221228581/1.m3u8
-#EXTINF:-1,cctv1-HD
-CCTV1 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221227725/1.m3u8
-#EXTINF:-1,cctv2-HD
-CCTV2 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228118/1.m3u8
+
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视", CCTV-1[高清]
+http://ott.mobaibox.com/PLTV/1/224/3221228581/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视", CCTV-1[高清]
+http://ott.mobaibox.com/PLTV/1/224/3221227725/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[高清]央视", CCTV-2[高清]
+http://ott.mobaibox.com/PLTV/1/224/3221228118/1.m3u8
 CCTV3 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228237/1.m3u8
 CCTV3-4K,http://ott.mobaibox.com/PLTV/1/224/3221228499/1.m3u8
 CCTV4-4KHEVC,http://ott.mobaibox.com/PLTV/1/224/3221228228/1.m3u8
