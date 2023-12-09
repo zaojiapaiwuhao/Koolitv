@@ -105,7 +105,6 @@ CGTN 576,http://ott.mobaibox.com/PLTV/4/224/3221225917/1.m3u8
 南京娱乐 1080,http://ott.mobaibox.com/PLTV/1/224/3221227722/1.m3u8
 南京信息 1080,http://ott.mobaibox.com/PLTV/1/224/3221227730/1.m3u8
 南京新闻综合 1080,http://ott.mobaibox.com/PLTV/1/224/3221227213/1.m3u8
-高淳新闻 1080,http://ott.mobaibox.com/PLTV/1/224/3221227870/1.m3u8
 常州新闻综合 1080,http://ott.mobaibox.com/PLTV/1/224/3221227752/1.m3u8
 常州都市 1080,http://ott.mobaibox.com/PLTV/1/224/3221227755/1.m3u8
 常州公共 1080,http://ott.mobaibox.com/PLTV/1/224/3221227772/1.m3u8
@@ -140,9 +139,9 @@ CGTN 576,http://ott.mobaibox.com/PLTV/4/224/3221225917/1.m3u8
 镇江新闻综合 1080,http://ott.mobaibox.com/PLTV/1/224/3221228246/1.m3u8
 宝应新闻综合 1080,http://ott.mobaibox.com/PLTV/1/224/3221228007/1.m3u8
 宝应生活资讯 1080,http://ott.mobaibox.com/PLTV/1/224/3221228039/1.m3u8
-铜山1 1080,http://ott.mobaibox.com/PLTV/1/224/3221228152/1.m3u8
-铜山2 1080,http://ott.mobaibox.com/PLTV/1/224/3221228081/1.m3u8
-铜山3 1080,http://ott.mobaibox.com/PLTV/1/224/3221228055/1.m3u8
+徐州铜山1 1080,http://ott.mobaibox.com/PLTV/1/224/3221228152/1.m3u8
+徐州铜山2 1080,http://ott.mobaibox.com/PLTV/1/224/3221228081/1.m3u8
+徐州铜山3 1080,http://ott.mobaibox.com/PLTV/1/224/3221228055/1.m3u8
 江都 1080,http://ott.mobaibox.com/PLTV/1/224/3221228323/1.m3u8
 崇川 1080,http://ott.mobaibox.com/PLTV/1/224/3221228533/1.m3u8
 贾汪新闻 576,http://ott.mobaibox.com/PLTV/1/224/3221227385/1.m3u8
