@@ -166,6 +166,10 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221225917/1.m3u8
 健身,http://ott.mobaibox.com/PLTV/1/224/3221228454/1.m3u8
 广场舞,http://ott.mobaibox.com/PLTV/1/224/3221228635/1.m3u8
 云视听小电视,http://ott.mobaibox.com/PLTV/1/224/3221228641/1.m3u8
-凤凰卫视HD,http://ott.mobaibox.com/PLTV/1/224/3221228524/1.m3u8
-凤凰卫视,http://ott.mobaibox.com/PLTV/1/224/3221228527/1.m3u8
-凤凰卫视香港台,http://ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰资讯台,http://ott.mobaibox.com/PLTV/1/224/3221228524/1.m3u8
+凤凰卫视中文台,http://ott.mobaibox.com/PLTV/1/224/3221228527/1.m3u8
+凤凰香港台,http://ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+周星驰影院,http://lxajh.top/tv/douyu.php?id=122402,http://lxajh.top/tv/douyu.php?id=5033502
+成龙电影,http://lxajh.top/tv/douyu.php?id=3379942
+李连杰影院,http://hls.ye23.vip/wl/huya2205.php?id=11342390
+林正英电影,http://lxajh.top/tv/douyu.php?id=11880298,http://lxajh.top/tv/douyu.php?id=6906628
