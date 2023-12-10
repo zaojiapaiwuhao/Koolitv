@@ -1,9 +1,9 @@
-CCTV1-4K,http://ott.mobaibox.com/PLTV/1/224/3221228581/1.m3u8
-CCTV1 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221227725/1.m3u8
-CCTV2 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228118/1.m3u8
-CCTV3 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228237/1.m3u8
-CCTV3-4K,http://ott.mobaibox.com/PLTV/1/224/3221228499/1.m3u8
-CCTV4-4KHEVC,http://ott.mobaibox.com/PLTV/1/224/3221228228/1.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/1/224/3221228581/1.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/1/224/3221227725/1.m3u8
+CCTV2,http://ott.mobaibox.com/PLTV/1/224/3221228118/1.m3u8
+CCTV3,http://ott.mobaibox.com/PLTV/1/224/3221228237/1.m3u8
+CCTV3,http://ott.mobaibox.com/PLTV/1/224/3221228499/1.m3u8
+CCTV4KHEVC,http://ott.mobaibox.com/PLTV/1/224/3221228228/1.m3u8
 CCTV5-4K,http://ott.mobaibox.com/PLTV/1/224/3221228502/1.m3u8
 CCTV5+ 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221228114/1.m3u8
 CCTV6 1080HEVC,http://ott.mobaibox.com/PLTV/1/224/3221227581/1.m3u8
